@@ -1,0 +1,1 @@
+THis is a compilation of java command line interface projects to understand the basic concepts of java
